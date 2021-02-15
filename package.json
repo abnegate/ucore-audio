@@ -3,7 +3,7 @@
   "name": "com.jakebarnby.ucore-audio",
   "version": "1.0.0",
   "displayName": "UCore Audio",
-  "description": "New package",
+  "description": "UCore Audio Tools",
   "unity": "2019.4",
   "keywords": [
     "ucore",
